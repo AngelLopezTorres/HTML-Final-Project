@@ -1,0 +1,32 @@
+{
+    "skins": [
+        {
+            "id": "1",
+            "nombre": "AK-47 | Creeplosion",
+            "precio": "189.00",
+            "colaboracion": "Minecraft",
+            "imagen": "img/Skins-AK47/Creeplosion.png"
+        },
+        {
+            "id": "2",
+            "nombre": "XM1014 | Yokai-gun",
+            "precio": "123.00",
+            "colaboracion": "Yokai Watch",
+            "imagen": "img/Skin-Escopeta/Yokai-gun.png"
+        },
+        {
+            "id": "3",
+            "nombre": "XM1014 | Memorias de verano",
+            "precio": "123.00",
+            "colaboracion": "Recuerdos pasados",
+            "imagen": "img/Skin-Escopeta/Memorias de ti.png"
+        },
+        {
+            "id": "4",
+            "nombre": "XM1014 | Memorias de verano 2",
+            "precio": "123.00",
+            "colaboracion": "Recuerdos pasados",
+            "imagen": "img/Skin-Escopeta/Memorias de ti.png"
+        }
+    ]
+}

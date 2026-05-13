@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skins>
+    <skin>
+        <nombre>AK-47 | Creeplosion</nombre>
+        <precio>189.00</precio>
+        <colaboracion>Minecraft</colaboracion>
+        <imagen>img/Skins-AK47/Creeplosion.png</imagen>
+    </skin>
+    <skin>
+        <nombre>XM1014 | Yokai-gun</nombre>
+        <precio>123.00</precio>
+        <colaboracion>Yokai Watch</colaboracion>
+        <imagen>img/Skin-Escopeta/Yokai-gun.png</imagen>
+    </skin>
+    <skin>
+        <nombre>XM1014 | Memorias de verano</nombre>
+        <precio>123.00</precio>
+        <colaboracion>Recuerdos pasados</colaboracion>
+        <imagen>img/Skin-Escopeta/Memorias de ti.png</imagen>
+    </skin>
+</skins>
