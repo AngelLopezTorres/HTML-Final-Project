@@ -7,7 +7,6 @@
     padding: 0;
 }
 
-<<<<<<< HEAD
 .main-login {
     padding: 0px;
     margin: 0;
@@ -17,8 +16,6 @@ footer {
     padding: 0px;
 }
 
-=======
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
 body {
     background-color: #0d0e12;
     font-family: 'DM Sans', sans-serif;
@@ -43,7 +40,6 @@ main {
     padding: 3px;
 }
 
-<<<<<<< HEAD
 .descripcion-home:first-child {
     margin: 0px;
     padding-top: 0.7rem;
@@ -54,8 +50,6 @@ main {
     margin: 0px;
 }
 
-=======
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
 .img-icon-sesion {
     display: none;
 }
@@ -97,19 +91,14 @@ option:disabled {
     animation-duration: 0.8s;
     animation-timing-function: ease;
     animation-fill-mode: both;
-<<<<<<< HEAD
     height: 100vh;
 }
 
 .en-construccion .btn-secundario {
-margin-top: 5rem;
+    margin-top: 5rem;
 }
 
 
-=======
-}
-
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
 header {
     display: flex;
     align-items: center;
@@ -131,10 +120,7 @@ header img {
 }
 
 nav ul {
-<<<<<<< HEAD
     align-items: center;
-=======
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     display: flex;
     list-style: none;
     gap: 2.5rem;
@@ -407,11 +393,7 @@ form h1 {
     margin-bottom: 3rem;
 }
 
-<<<<<<< HEAD
 .div-flex {
-=======
-.panel-flex {
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     padding: 2rem;
     border-top: 1px solid rgba(255, 255, 255, 0.06);
     animation-name: aparecer;
@@ -421,17 +403,9 @@ form h1 {
     width: 100%;
 }
 
-<<<<<<< HEAD
 .div-flex-skins {
     display: flex;
     flex-wrap: wrap;
-=======
-.panel-flex-skins {
-    display: flex;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    flex-wrap: wrap;
-
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     gap: 2rem;
     padding: 2rem 3rem 2rem 3rem;
     width: 69%;
@@ -454,11 +428,7 @@ form h1 {
 /*----------Sección de opiniones de usuarios----------*/
 /*Usado en: index*/
 
-<<<<<<< HEAD
 .div-flex-usuarios {
-=======
-.panel-flex-usuarios {
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     border-top: 1px solid rgba(255, 255, 255, 0.06);
     display: flex;
     flex-wrap: wrap;
@@ -607,10 +577,7 @@ form h1 {
     display: flex;
     justify-content: center;
     flex-flow: row wrap;
-<<<<<<< HEAD
     margin-bottom: 15rem;
-=======
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
 }
 
 .flex-fundador {
@@ -658,13 +625,9 @@ form h1 {
 }
 
 details {
-<<<<<<< HEAD
     margin-top: 2rem;
     margin-bottom: 2rem;
 
-=======
-    margin: 1.5rem;
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     padding: 1.5rem;
     border-radius: 1.5rem;
     background-color: #13151c;
@@ -709,11 +672,7 @@ summary {
 footer {
     border-top: 1px solid rgba(255, 255, 255, 0.08);
     margin-top: 4rem;
-<<<<<<< HEAD
     padding: 3rem 0rem 1.5rem 5rem;
-=======
-    padding: 3rem 5rem 1.5rem 5rem;
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     animation-name: aparecer;
     animation-duration: 0.8s;
     animation-timing-function: ease;
@@ -723,36 +682,19 @@ footer {
 .footer-grid {
     display: flex;
     justify-content: space-between;
-<<<<<<< HEAD
     align-items: center;
     gap: 2rem;
 
-=======
-    gap: 2rem;
-    margin-bottom: 3rem;
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
 }
 
 .footer-columna {
     display: flex;
     flex-direction: column;
-<<<<<<< HEAD
     gap: 2rem;
     width: 22%;
     margin-bottom: 2rem;
 }
 
-=======
-    gap: 1rem;
-    width: 22%;
-}
-
-.footer-logo {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 2rem;
-    color: #e8c84a;
-}
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
 
 .footer-titulo-col {
     font-family: 'Bebas Neue', sans-serif;
@@ -774,13 +716,8 @@ footer {
 
 .footer-columna img {
     align-self: center;
-<<<<<<< HEAD
     height: 7rem;
     width: 7rem;
-=======
-    height: 50%;
-    width: 50%;
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
 }
 
 .footer-links a {
@@ -898,11 +835,7 @@ aside input[type="number"] {
     border: 1px solid rgba(82, 39, 39, 0.555);
     border-radius: 0.5rem;
     padding: 1rem;
-<<<<<<< HEAD
     width: 30%;
-=======
-    width: 25%;
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     transition-property: all;
     transition-duration: 0.3s;
 }
@@ -923,7 +856,6 @@ aside input[type="number"] {
 
 /*Login*/
 .pagina-login {
-<<<<<<< HEAD
     background-image: url('https://wallup.net/wp-content/uploads/2018/03/19/583093-Counter-Strike_Global_Offensive-Counter-Strike-748x468.jpg');
     background-size: cover;
     border: 1px solid rgba(255, 255, 255, 0.06);
@@ -933,12 +865,6 @@ aside input[type="number"] {
     align-items: center;
     height: 100vh;
     margin: auto;
-=======
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
 }
 
 .login {
@@ -964,11 +890,7 @@ aside input[type="number"] {
     border-radius: 0.25rem;
     color: #f0efe8;
     padding-left: 1rem;
-<<<<<<< HEAD
     width: 55%;
-=======
-    width: 100%;
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     height: 2.8rem;
     box-sizing: border-box;
 }
@@ -976,10 +898,6 @@ aside input[type="number"] {
 .login .btn-login {
     width: 50%;
     height: 2.8rem;
-<<<<<<< HEAD
-=======
-
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     border: none;
     border-radius: 4px;
     background-color: #e8c84a;
@@ -999,7 +917,6 @@ aside input[type="number"] {
     opacity: 0.9;
 }
 
-<<<<<<< HEAD
 /*----------Carrito----------*/
 .carrito-flex {
     display: flex;
@@ -1229,8 +1146,6 @@ aside input[type="number"] {
     }
 }
 
-=======
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
 /*----------Animación----------*/
 
 @keyframes aparecer {
@@ -1246,7 +1161,6 @@ aside input[type="number"] {
 }
 
 /* Media query*/
-<<<<<<< HEAD
 /* MOBILE - 768px y menos */
 @media (max-width: 768px) {
     .carrito-resumen {
@@ -1259,22 +1173,13 @@ aside input[type="number"] {
         grid-template-columns: repeat(1fr);
     }
 
-=======
-/* MÓVIL */
-@media (max-width: 768px) {
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     .skin-arma-skins {
         background-color: #13151c;
         border: 1px solid rgba(82, 39, 39, 0.555);
         border-radius: 0.5rem;
         padding: 1rem;
         width: 100%;
-<<<<<<< HEAD
         transition: all 0.3s;
-=======
-        transition-property: all;
-        transition-duration: 0.3s;
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     }
 
     .home-principal .skin-arma {
@@ -1285,7 +1190,6 @@ aside input[type="number"] {
         width: 90%;
     }
 
-<<<<<<< HEAD
     header {
         display: flex;
         align-items: center;
@@ -1323,26 +1227,12 @@ aside input[type="number"] {
 
     header nav #iniciar-sesion {
         display: none;
-=======
-    nav #iniciar-sesion {
-        display: none;
-    }
-
-
-    header {
-        justify-content: space-evenly;
-    }
-
-    header img {
-        margin-right: 2rem;
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     }
 
     .opinion-usuarios {
         display: none;
     }
 
-<<<<<<< HEAD
     .img-icon-sesion {
         display: block;
     }
@@ -1396,34 +1286,10 @@ aside input[type="number"] {
         width: 1rem;
     }
 
-=======
-    aside {
-        margin-left: 1.5rem;
-        margin-right: 5rem;
-        margin-bottom: 1.5rem;
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        position: static;
-        margin-top: 1.25rem;
-        width: 80%;
-        background-color: #1a1c25;
-        padding: 1.5rem;
-        border-radius: 0.75rem;
-        border: 1px solid rgba(255, 255, 255, 0.06);
-        gap: 0.5rem;
-        animation-name: aparecer;
-        animation-duration: 0.8s;
-        animation-timing-function: ease;
-        animation-fill-mode: both;
-        animation-delay: 0.2s;
-    }
-
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     nav li {
         text-align: center;
     }
 
-<<<<<<< HEAD
     #abrir-menu-movil {
         display: inline;
     }
@@ -1506,25 +1372,6 @@ aside input[type="number"] {
         width: 100%;
         box-sizing: border-box;
         padding: 0.75rem;
-=======
-    aside h2 {
-        grid-column: 1 / -1;
-        text-align: center;
-    }
-
-    aside form {
-        grid-column: 1 / -1;
-    }
-
-    aside form input {
-        width: 100%;
-        box-sizing: border-box;
-    }
-
-    aside input[type="number"] {
-        width: 100%;
-        box-sizing: border-box;
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
     }
 
     .footer-desc {
@@ -1539,7 +1386,6 @@ aside input[type="number"] {
         width: 5rem;
     }
 
-<<<<<<< HEAD
     input[type="search"] {
         grid-column: span 2;
         width: 100%;
@@ -1636,9 +1482,4 @@ aside input[type="number"] {
         width: 100%;
         margin: 0;
     }
-=======
-    .img-icon-sesion {
-        display: block;
-    }
->>>>>>> 94b1f31c601778f4f47e7cb0b6e77e40c570ff8e
 }
